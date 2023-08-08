@@ -1,0 +1,2 @@
+2023-07-30T18:54:38+00:00 CRITICAL Cannot redeclare dodaj_dodatkowe_informacje_w_koszyku() (previously declared in /var/www/html/wp-content/themes/astra/functions.php:213) w /var/www/html/wp-content/themes/astra/functions.php w linii 221
+
